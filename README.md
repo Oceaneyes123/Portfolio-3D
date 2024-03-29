@@ -1,8 +1,6 @@
-# React + Vite
+## A 3D Portolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is created using React and Three JS.
 
-Currently, two official plugins are available:
+![image](https://github.com/Oceaneyes123/Portfolio-3D/assets/42128868/b59b226b-6feb-4729-b06e-aa231b08bab9)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
